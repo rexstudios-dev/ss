@@ -1,0 +1,32 @@
+
+
+[
+    {
+
+      "title": "Curso de Desarrollo Web Front end",
+      "image": "https://cdn.discordapp.com/attachments/1157086558751567973/1177764482928365659/web-developer-flatline.png?ex=6573b1a6&is=65613ca6&hm=b4348158f3225ff1b5b6550cdaa1ac20a8e825ffaaf632fffad6e5e4447788b6&",
+      "description": "Descubre nuestro curso avanzado de desarrollo web , donde aprenderás las tecnologías más recientes.",
+      "link": "/Clases",
+      "topics": [
+        "Recordar el uso de variables y funciones",
+        "Aprender sobre un Template literal",
+        "Conocer Json y trabajar con la consola de comandos",
+        "Repasar Arrays y trabajar sus métodos e iteraciones",
+        "Introducción a React JS y su sintaxis",
+        "..."
+      ]
+    },
+    {
+      "title": "Conviértete en un Instructor",
+      "image": "https://cdn.discordapp.com/attachments/1157086558751567973/1177764945866264576/presentation-monochromatic.png?ex=6573b214&is=65613d14&hm=72407a02fd1a3591531f0583a8b706c175d61a0b53ef017d35066bd8a41b46d2&",
+      "description": "¿Tienes habilidades para compartir? Únete a nuestro equipo de instructores y ayuda a otros a aprender.",
+      "link": "/instructors"
+    },
+    {
+      "title": "Sobre Nosotros",
+      "image": "https://cdn.discordapp.com/attachments/1157086558751567973/1177768141317738557/web-developer-monochromatic.png?ex=6573b50e&is=6561400e&hm=74f51028563b89e22bf409ce981b25cc170e76861ae9bec7cc38d19f36bece1e&",
+      "description": "Descubre quiénes somos y nuestra misión de hacer la programación accesible para todos.",
+      "link": "/about"
+    }
+  ]
+  
